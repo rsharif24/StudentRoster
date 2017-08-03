@@ -1,0 +1,23 @@
+{
+  "name": "StudentRoster",
+  "version": "1.0.0",
+  "description": "Fun Student Roster Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsharif24/StudentRoster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsharif24/StudentRoster/issues"
+  },
+  "homepage": "https://github.com/rsharif24/StudentRoster#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
